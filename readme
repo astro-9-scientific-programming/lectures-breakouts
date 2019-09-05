@@ -1,0 +1,7 @@
+## Introduction to Scientific Programming
+
+Benjamin Horowitz (bhorowitz@berkeley.edu)
+
+Astro 9: Introduction to Scientific Programming with Python is an introductory course in scientific programming with emphasis on learning the techniques used to model the universe and analyze data. The focus of the course will be less on theoretical/mathematical aspects but instead on the application and implementation of practical computational techniques useful throughout the physical sciences. In particular we will extensively use the python numpy/scipy/matplotlib stack to create programs and apply them to data drawn from a number of real world sources (astronomy, physics, finance, etc.). Topics covered in the course will include numerical integration, sampling (i.e. markov chain monte carlo), optimization, interpolation and extrapolation of data, and inference with machine learning. Students will complete a final project on a topic of their choosing to apply the techniques learned in class. This course is designed to be an excellent introduction for students interested in astrophysics research.
+
+Currently this repository has the notes as they appeared during the class. I will soon make a new branch (or move this to a seperate branch) which is more general purpose and cleaner than that appearing here.
